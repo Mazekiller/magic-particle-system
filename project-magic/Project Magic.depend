@@ -1,0 +1,3394 @@
+# depslib dependency file v1.0
+1427146902 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\main.cpp
+	<SFML/Graphics.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1418167556 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\utf.inl
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\string.inl
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\thread.inl
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\vector2.inl
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\system\vector3.inl
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1417738159 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1417738160 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.inl
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 c:\users\kyogr_000\desktop\coche\game making project\libraries\2d\sfml 2.2\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1428707896 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\bullet.cpp
+	"Bullet.hpp"
+	<cmath>
+	<iostream>
+
+1430009098 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\bullet.hpp
+	<SFML/System/Time.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1429584107 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\mathconstants.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1360368470 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\indexmanager.hpp
+	"PolarVector.hpp"
+
+1360369188 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\polarvector.hpp
+	"MathConstants.hpp"
+	<cmath>
+
+1428696389 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\textureholder.hpp
+	<vector>
+	<SFML/Graphics/Texture.hpp>
+
+1358350516 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\bulletplacer.cpp
+	"BulletPlacer.hpp"
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1360368916 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\bulletplacer.hpp
+	"Bullet.hpp"
+	"TextureHolder.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1353972750 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\chronometer.hpp
+	<SFML/System/Clock.hpp>
+
+1358212176 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\characters.cpp
+	"Characters.hpp"
+
+1360369000 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\characters.hpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	"Chronometer.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+
+1353972750 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\chronometer.cpp
+	"Chronometer.hpp"
+
+1360376128 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\hsl.cpp
+	"HSL.hpp"
+	"MathConstants.hpp"
+
+1360376128 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\hsl.hpp
+	<SFML/Graphics/Color.hpp>
+	<algorithm>
+	<cmath>
+
+1360359542 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\indexmanager.cpp
+	"IndexManager.hpp"
+
+1354408812 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\mainmenu.cpp
+	"MainMenu.h"
+
+1350419914 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\mainmenu.h
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1360369212 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\polarvector.cpp
+	"PolarVector.hpp"
+
+1359219940 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\shooter.cpp
+	"Shooter.hpp"
+
+1358977574 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\shooter.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	"PlayerShot.hpp"
+
+1358977288 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\playershot.hpp
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	"PolarVector.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1428707771 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\textureholder.cpp
+	"TextureHolder.hpp"
+	<iostream>
+
+1427837237 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\agnar.cpp
+	"Agnar.hpp"
+
+1355768480 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\agnar.hpp
+	"Player.hpp"
+
+1428707983 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\player.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Characters.hpp"
+	"Item.hpp"
+
+1355532010 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\item.hpp
+	<SFML/Graphics/Drawable.hpp>
+
+1427851504 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\bomb.hpp
+
+1357425330 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\altsprite.cpp
+	<cmath>
+	"AltSprite.hpp"
+
+1357425330 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\altsprite.hpp
+	<memory>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1358359226 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\altspriteholder.cpp
+	"AltSpriteHolder.hpp"
+	"PolarVector.hpp"
+	<cmath>
+
+1358350662 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\altspriteholder.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Texture.hpp>
+	"MathConstants.hpp"
+
+1355764058 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\bomb.cpp
+	"Bomb.hpp"
+
+1354247162 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\enemybase.cpp
+	"EnemyBase.hpp"
+
+1428708140 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\enemybase.hpp
+	"Player.hpp"
+	<string>
+	<vector>
+
+1355765528 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\spell.hpp
+	<vector>
+	<SFML/System.hpp>
+	"BulletPlacer.hpp"
+
+1355015846 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\fps.cpp
+	"FPS.hpp"
+	<sstream>
+	<string>
+
+1355015846 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\fps.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Chronometer.hpp"
+
+1355528166 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\item.cpp
+	"Item.hpp"
+
+1355530052 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\mana.cpp
+	"Mana.hpp"
+
+1355531956 c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\mana.hpp
+
+1428708304 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1359219820 source:c:\users\kyogr_000\desktop\coche\game making project\projects\project magic\playershot.cpp
+	"PlayerShot.hpp"
+	<iostream>
+
+1439085495 source:e:\game programming\project magic\characters.cpp
+	"Characters.hpp"
+
+1360369000 e:\game programming\project magic\characters.hpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	"Chronometer.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1418167556 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.inl
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.inl
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.inl
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.inl
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.inl
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1417738159 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1417738160 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.inl
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 e:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1353972750 e:\game programming\project magic\chronometer.hpp
+	<SFML/System/Clock.hpp>
+
+1439395714 e:\game programming\project magic\polarvector.hpp
+	"MathConstants.hpp"
+	<cmath>
+
+1439570118 e:\game programming\project magic\mathconstants.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+
+1353972750 source:e:\game programming\project magic\chronometer.cpp
+	"Chronometer.hpp"
+
+1360376128 source:e:\game programming\project magic\hsl.cpp
+	"HSL.hpp"
+	"MathConstants.hpp"
+
+1360376128 e:\game programming\project magic\hsl.hpp
+	<SFML/Graphics/Color.hpp>
+	<algorithm>
+	<cmath>
+
+1360359542 source:e:\game programming\project magic\indexmanager.cpp
+	"IndexManager.hpp"
+
+1360368470 e:\game programming\project magic\indexmanager.hpp
+	"PolarVector.hpp"
+
+1439091276 source:e:\game programming\project magic\polarvector.cpp
+	"PolarVector.hpp"
+
+1440552313 source:e:\game programming\project magic\main.cpp
+	"Generator.hpp"
+	"FPS.hpp"
+	"PolarVector.hpp"
+	"EmitterDefinitions.hpp"
+	"AffectorDefinitions.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<random>
+
+1354247162 source:e:\game programming\project magic\enemybase.cpp
+	"EnemyBase.hpp"
+
+1428708140 e:\game programming\project magic\enemybase.hpp
+	"Player.hpp"
+	<string>
+	<vector>
+
+1428707983 e:\game programming\project magic\player.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Characters.hpp"
+	"Item.hpp"
+
+1355532010 e:\game programming\project magic\item.hpp
+	<SFML/Graphics/Drawable.hpp>
+
+1355015846 source:e:\game programming\project magic\fps.cpp
+	"FPS.hpp"
+	<sstream>
+	<string>
+
+1355015846 e:\game programming\project magic\fps.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Chronometer.hpp"
+
+1355528166 source:e:\game programming\project magic\item.cpp
+	"Item.hpp"
+
+1355530052 source:e:\game programming\project magic\mana.cpp
+	"Mana.hpp"
+
+1355531956 e:\game programming\project magic\mana.hpp
+
+1428708304 source:e:\game programming\project magic\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1359219820 source:e:\game programming\project magic\playershot.cpp
+	"PlayerShot.hpp"
+	<iostream>
+
+1358977288 e:\game programming\project magic\playershot.hpp
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	"PolarVector.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1437487868 source:e:\game programming\project magic\textureholder.cpp
+	"TextureHolder.hpp"
+	<iostream>
+
+1437487868 e:\game programming\project magic\textureholder.hpp
+	<vector>
+	<SFML/Graphics/Texture.hpp>
+
+1440561972 source:e:\game programming\project magic\bullet.cpp
+	"Bullet.hpp"
+	"MathConstants.hpp"
+	"TextureHolder.hpp"
+	<cmath>
+	<iostream>
+
+1440561772 e:\game programming\project magic\bullet.hpp
+	<utility>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1440530511 source:e:\game programming\project magic\emitter.cpp
+	"Emitter.hpp"
+	"MathConstants.hpp"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1440530408 e:\game programming\project magic\emitter.hpp
+	<utility>
+	<functional>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1440561972 source:f:\game programming\project magic\bullet.cpp
+	"Bullet.hpp"
+	"MathConstants.hpp"
+	"TextureHolder.hpp"
+	<cmath>
+	<iostream>
+
+1440561772 f:\game programming\project magic\bullet.hpp
+	<utility>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1418167556 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.inl
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1439085495 source:f:\game programming\project magic\characters.cpp
+	"Characters.hpp"
+
+1360369000 f:\game programming\project magic\characters.hpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	"Chronometer.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.inl
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.inl
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.inl
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.inl
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1417738159 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1417738160 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.inl
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 f:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1353972750 f:\game programming\project magic\chronometer.hpp
+	<SFML/System/Clock.hpp>
+
+1439395714 f:\game programming\project magic\polarvector.hpp
+	"MathConstants.hpp"
+	<cmath>
+
+1439570118 f:\game programming\project magic\mathconstants.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+
+1353972750 source:f:\game programming\project magic\chronometer.cpp
+	"Chronometer.hpp"
+
+1440530511 source:f:\game programming\project magic\emitter.cpp
+	"Emitter.hpp"
+	"MathConstants.hpp"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1443843307 f:\game programming\project magic\emitter.hpp
+	<utility>
+	<functional>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1354247162 source:f:\game programming\project magic\enemybase.cpp
+	"EnemyBase.hpp"
+
+1428708140 f:\game programming\project magic\enemybase.hpp
+	"Player.hpp"
+	<string>
+	<vector>
+
+1428707983 f:\game programming\project magic\player.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Characters.hpp"
+	"Item.hpp"
+
+1355532010 f:\game programming\project magic\item.hpp
+	<SFML/Graphics/Drawable.hpp>
+
+1355015846 source:f:\game programming\project magic\fps.cpp
+	"FPS.hpp"
+	<sstream>
+	<string>
+
+1355015846 f:\game programming\project magic\fps.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Chronometer.hpp"
+
+1360376128 source:f:\game programming\project magic\hsl.cpp
+	"HSL.hpp"
+	"MathConstants.hpp"
+
+1360376128 f:\game programming\project magic\hsl.hpp
+	<SFML/Graphics/Color.hpp>
+	<algorithm>
+	<cmath>
+
+1360359542 source:f:\game programming\project magic\indexmanager.cpp
+	"IndexManager.hpp"
+
+1360368470 f:\game programming\project magic\indexmanager.hpp
+	"PolarVector.hpp"
+
+1355528166 source:f:\game programming\project magic\item.cpp
+	"Item.hpp"
+
+1443840624 source:f:\game programming\project magic\main.cpp
+	"Generator.hpp"
+	"FPS.hpp"
+	"PolarVector.hpp"
+	"EmitterDefinitions.hpp"
+	"AffectorDefinitions.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<random>
+
+1355530052 source:f:\game programming\project magic\mana.cpp
+	"Mana.hpp"
+
+1355531956 f:\game programming\project magic\mana.hpp
+
+1428708304 source:f:\game programming\project magic\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1359219820 source:f:\game programming\project magic\playershot.cpp
+	"PlayerShot.hpp"
+	<iostream>
+
+1358977288 f:\game programming\project magic\playershot.hpp
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	"PolarVector.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1439091276 source:f:\game programming\project magic\polarvector.cpp
+	"PolarVector.hpp"
+
+1437487868 source:f:\game programming\project magic\textureholder.cpp
+	"TextureHolder.hpp"
+	<iostream>
+
+1437487868 f:\game programming\project magic\textureholder.hpp
+	<vector>
+	<SFML/Graphics/Texture.hpp>
+
+1440459416 source:e:\game programming\project magic\generator.cpp
+	"Generator.hpp"
+	"PolarVector.hpp"
+	<iostream>
+	<algorithm>
+
+1439837989 e:\game programming\project magic\generator.hpp
+	<vector>
+	<array>
+	<map>
+	<memory>
+	<utility>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	"Emitter.hpp"
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+	"Bullet.hpp"
+	"TextureHolder.hpp"
+
+1427516521 e:\game programming\project magic\affector.hpp
+
+1440459416 source:f:\game programming\project magic\generator.cpp
+	"Generator.hpp"
+	"PolarVector.hpp"
+	<iostream>
+	<algorithm>
+
+1439837989 f:\game programming\project magic\generator.hpp
+	<vector>
+	<array>
+	<map>
+	<memory>
+	<utility>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	"Emitter.hpp"
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+	"Bullet.hpp"
+	"TextureHolder.hpp"
+
+1427516521 f:\game programming\project magic\affector.hpp
+
+1439061841 source:f:\game programming\project magic\altspriteholder.cpp
+	"AltSpriteHolder.hpp"
+	"PolarVector.hpp"
+	<cmath>
+
+1439064804 f:\game programming\project magic\altspriteholder.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1439085261 f:\game programming\project magic\polarvector.inl
+
+1439818914 source:e:\game programming\project magic\emittertypes.cpp
+	"EmitterTypes.hpp"
+
+1439572851 e:\game programming\project magic\emittertypes.hpp
+	"Emitter.hpp"
+
+1440104799 source:e:\game programming\project magic\emitterdefinitions.cpp
+	"EmitterDefinitions.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+	<iostream>
+
+1439588144 e:\game programming\project magic\emitterdefinitions.hpp
+	"EmitterTypes.hpp"
+
+1440092539 e:\game programming\project magic\distribution.hpp
+	<random>
+	<chrono>
+	<SFML/System/Time.hpp>
+
+1440459415 source:e:\game programming\project magic\affectordefinitions.cpp
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+
+1440461233 e:\game programming\project magic\affectordefinitions.hpp
+	"Bullet.hpp"
+
+1440459415 source:f:\game programming\project magic\affectordefinitions.cpp
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+
+1440461233 f:\game programming\project magic\affectordefinitions.hpp
+	"Bullet.hpp"
+
+1439818914 source:f:\game programming\project magic\emittertypes.cpp
+	"EmitterTypes.hpp"
+
+1439572851 f:\game programming\project magic\emittertypes.hpp
+	"Emitter.hpp"
+
+1440092539 f:\game programming\project magic\distribution.hpp
+	<random>
+	<chrono>
+	<SFML/System/Time.hpp>
+
+1443839922 f:\game programming\project magic\emitterdefinitions.hpp
+	"EmitterTypes.hpp"
+
+1443840624 source:f:\game programming\project magic\emitterdefinitions.cpp
+	"EmitterDefinitions.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+	<iostream>
+
+1440459415 source:d:\game programming\project magic\affectordefinitions.cpp
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+
+1440461233 d:\game programming\project magic\affectordefinitions.hpp
+	"Bullet.hpp"
+
+1440561772 d:\game programming\project magic\bullet.hpp
+	<utility>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1418167556 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.inl
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1439570118 d:\game programming\project magic\mathconstants.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.inl
+
+1440561972 source:d:\game programming\project magic\bullet.cpp
+	"Bullet.hpp"
+	"MathConstants.hpp"
+	"TextureHolder.hpp"
+	<cmath>
+	<iostream>
+
+1437487868 d:\game programming\project magic\textureholder.hpp
+	<vector>
+	<SFML/Graphics/Texture.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1439085495 source:d:\game programming\project magic\characters.cpp
+	"Characters.hpp"
+
+1360369000 d:\game programming\project magic\characters.hpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	"Chronometer.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.inl
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.inl
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.inl
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.inl
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1417738159 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1417738160 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 d:\game programming\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1353972750 d:\game programming\project magic\chronometer.hpp
+	<SFML/System/Clock.hpp>
+
+1439395714 d:\game programming\project magic\polarvector.hpp
+	"MathConstants.hpp"
+	<cmath>
+
+1353972750 source:d:\game programming\project magic\chronometer.cpp
+	"Chronometer.hpp"
+
+1440530511 source:d:\game programming\project magic\emitter.cpp
+	"Emitter.hpp"
+	"MathConstants.hpp"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1440530408 d:\game programming\project magic\emitter.hpp
+	<utility>
+	<functional>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1440092539 d:\game programming\project magic\distribution.hpp
+	<random>
+	<chrono>
+	<SFML/System/Time.hpp>
+
+1441993423 source:d:\game programming\project magic\emitterdefinitions.cpp
+	"EmitterDefinitions.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+	<iostream>
+
+1439588144 d:\game programming\project magic\emitterdefinitions.hpp
+	"EmitterTypes.hpp"
+
+1439572851 d:\game programming\project magic\emittertypes.hpp
+	"Emitter.hpp"
+
+1439818914 source:d:\game programming\project magic\emittertypes.cpp
+	"EmitterTypes.hpp"
+
+1354247162 source:d:\game programming\project magic\enemybase.cpp
+	"EnemyBase.hpp"
+
+1428708140 d:\game programming\project magic\enemybase.hpp
+	"Player.hpp"
+	<string>
+	<vector>
+
+1428707983 d:\game programming\project magic\player.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Characters.hpp"
+	"Item.hpp"
+
+1355532010 d:\game programming\project magic\item.hpp
+	<SFML/Graphics/Drawable.hpp>
+
+1355015846 source:d:\game programming\project magic\fps.cpp
+	"FPS.hpp"
+	<sstream>
+	<string>
+
+1355015846 d:\game programming\project magic\fps.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Chronometer.hpp"
+
+1440459416 source:d:\game programming\project magic\generator.cpp
+	"Generator.hpp"
+	"PolarVector.hpp"
+	<iostream>
+	<algorithm>
+
+1439837989 d:\game programming\project magic\generator.hpp
+	<vector>
+	<array>
+	<map>
+	<memory>
+	<utility>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	"Emitter.hpp"
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+	"Bullet.hpp"
+	"TextureHolder.hpp"
+
+1360376128 source:d:\game programming\project magic\hsl.cpp
+	"HSL.hpp"
+	"MathConstants.hpp"
+
+1360376128 d:\game programming\project magic\hsl.hpp
+	<SFML/Graphics/Color.hpp>
+	<algorithm>
+	<cmath>
+
+1360359542 source:d:\game programming\project magic\indexmanager.cpp
+	"IndexManager.hpp"
+
+1360368470 d:\game programming\project magic\indexmanager.hpp
+	"PolarVector.hpp"
+
+1355528166 source:d:\game programming\project magic\item.cpp
+	"Item.hpp"
+
+1355530052 source:d:\game programming\project magic\mana.cpp
+	"Mana.hpp"
+
+1355531956 d:\game programming\project magic\mana.hpp
+
+1428708304 source:d:\game programming\project magic\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1359219820 source:d:\game programming\project magic\playershot.cpp
+	"PlayerShot.hpp"
+	<iostream>
+
+1358977288 d:\game programming\project magic\playershot.hpp
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	"PolarVector.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1439091276 source:d:\game programming\project magic\polarvector.cpp
+	"PolarVector.hpp"
+
+1437487868 source:d:\game programming\project magic\textureholder.cpp
+	"TextureHolder.hpp"
+	<iostream>
+
+1440552313 source:d:\game programming\project magic\main.cpp
+	"Generator.hpp"
+	"FPS.hpp"
+	"PolarVector.hpp"
+	"EmitterDefinitions.hpp"
+	"AffectorDefinitions.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<random>
+
+1450836986 source:c:\users\carlos\desktop\personal programing projects\project magic\affectordefinitions.cpp
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+
+1450836986 c:\users\carlos\desktop\personal programing projects\project magic\affectordefinitions.hpp
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1440561772 c:\users\carlos\desktop\personal programing projects\project magic\bullet.hpp
+	<utility>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1439570118 c:\users\carlos\desktop\personal programing projects\project magic\mathconstants.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+
+1440561972 source:c:\users\carlos\desktop\personal programing projects\project magic\bullet.cpp
+	"Bullet.hpp"
+	"MathConstants.hpp"
+	"TextureHolder.hpp"
+	<cmath>
+	<iostream>
+
+1437487868 c:\users\carlos\desktop\personal programing projects\project magic\textureholder.hpp
+	<vector>
+	<SFML/Graphics/Texture.hpp>
+
+1439085495 source:c:\users\carlos\desktop\personal programing projects\project magic\characters.cpp
+	"Characters.hpp"
+
+1360369000 c:\users\carlos\desktop\personal programing projects\project magic\characters.hpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	"Chronometer.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+
+1353972750 c:\users\carlos\desktop\personal programing projects\project magic\chronometer.hpp
+	<SFML/System/Clock.hpp>
+
+1439395714 c:\users\carlos\desktop\personal programing projects\project magic\polarvector.hpp
+	"MathConstants.hpp"
+	<cmath>
+
+1353972750 source:c:\users\carlos\desktop\personal programing projects\project magic\chronometer.cpp
+	"Chronometer.hpp"
+
+1443843340 source:c:\users\carlos\desktop\personal programing projects\project magic\emitter.cpp
+	"Emitter.hpp"
+	"MathConstants.hpp"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1443843307 c:\users\carlos\desktop\personal programing projects\project magic\emitter.hpp
+	<utility>
+	<functional>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1440092539 c:\users\carlos\desktop\personal programing projects\project magic\distribution.hpp
+	<random>
+	<chrono>
+	<SFML/System/Time.hpp>
+
+1451696533 source:c:\users\carlos\desktop\personal programing projects\project magic\emitterdefinitions.cpp
+	"EmitterDefinitions.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+	<iostream>
+
+1451695082 c:\users\carlos\desktop\personal programing projects\project magic\emitterdefinitions.hpp
+	"EmitterTypes.hpp"
+	"LuaTools.hpp"
+
+1439572851 c:\users\carlos\desktop\personal programing projects\project magic\emittertypes.hpp
+	"Emitter.hpp"
+
+1439818914 source:c:\users\carlos\desktop\personal programing projects\project magic\emittertypes.cpp
+	"EmitterTypes.hpp"
+
+1354247162 source:c:\users\carlos\desktop\personal programing projects\project magic\enemybase.cpp
+	"EnemyBase.hpp"
+
+1428708140 c:\users\carlos\desktop\personal programing projects\project magic\enemybase.hpp
+	"Player.hpp"
+	<string>
+	<vector>
+
+1428707983 c:\users\carlos\desktop\personal programing projects\project magic\player.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Characters.hpp"
+	"Item.hpp"
+
+1355532010 c:\users\carlos\desktop\personal programing projects\project magic\item.hpp
+	<SFML/Graphics/Drawable.hpp>
+
+1355015846 source:c:\users\carlos\desktop\personal programing projects\project magic\fps.cpp
+	"FPS.hpp"
+	<sstream>
+	<string>
+
+1355015846 c:\users\carlos\desktop\personal programing projects\project magic\fps.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Chronometer.hpp"
+
+1450836986 source:c:\users\carlos\desktop\personal programing projects\project magic\generator.cpp
+	"Generator.hpp"
+	"PolarVector.hpp"
+	<iostream>
+	<algorithm>
+
+1439837989 c:\users\carlos\desktop\personal programing projects\project magic\generator.hpp
+	<vector>
+	<array>
+	<map>
+	<memory>
+	<utility>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	"Emitter.hpp"
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+	"Bullet.hpp"
+	"TextureHolder.hpp"
+
+1360376128 source:c:\users\carlos\desktop\personal programing projects\project magic\hsl.cpp
+	"HSL.hpp"
+	"MathConstants.hpp"
+
+1360376128 c:\users\carlos\desktop\personal programing projects\project magic\hsl.hpp
+	<SFML/Graphics/Color.hpp>
+	<algorithm>
+	<cmath>
+
+1360359542 source:c:\users\carlos\desktop\personal programing projects\project magic\indexmanager.cpp
+	"IndexManager.hpp"
+
+1360368470 c:\users\carlos\desktop\personal programing projects\project magic\indexmanager.hpp
+	"PolarVector.hpp"
+
+1355528166 source:c:\users\carlos\desktop\personal programing projects\project magic\item.cpp
+	"Item.hpp"
+
+1451696444 source:c:\users\carlos\desktop\personal programing projects\project magic\main.cpp
+	"Generator.hpp"
+	"FPS.hpp"
+	"PolarVector.hpp"
+	"EmitterDefinitions.hpp"
+	"AffectorDefinitions.hpp"
+	"LuaTools.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<random>
+	"LuaTools.hpp"
+
+1355530052 source:c:\users\carlos\desktop\personal programing projects\project magic\mana.cpp
+	"Mana.hpp"
+
+1355531956 c:\users\carlos\desktop\personal programing projects\project magic\mana.hpp
+
+1428708304 source:c:\users\carlos\desktop\personal programing projects\project magic\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1359219820 source:c:\users\carlos\desktop\personal programing projects\project magic\playershot.cpp
+	"PlayerShot.hpp"
+	<iostream>
+
+1358977288 c:\users\carlos\desktop\personal programing projects\project magic\playershot.hpp
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	"PolarVector.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1439091276 source:c:\users\carlos\desktop\personal programing projects\project magic\polarvector.cpp
+	"PolarVector.hpp"
+
+1437487868 source:c:\users\carlos\desktop\personal programing projects\project magic\textureholder.cpp
+	"TextureHolder.hpp"
+	<iostream>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1418167556 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.inl
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.inl
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.inl
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.inl
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.inl
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.inl
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1417738159 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1417738160 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 c:\users\carlos\desktop\personal programing projects\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1450819914 source:c:\users\carlos\desktop\personal repositories\project-magic\affectordefinitions.cpp
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+
+1450817890 c:\users\carlos\desktop\personal repositories\project-magic\affectordefinitions.hpp
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\bullet.hpp
+	<utility>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1418167556 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector2.inl
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\distribution.hpp
+	<random>
+	<chrono>
+	<SFML/System/Time.hpp>
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\mathconstants.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rect.inl
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\bullet.cpp
+	"Bullet.hpp"
+	"MathConstants.hpp"
+	"TextureHolder.hpp"
+	<cmath>
+	<iostream>
+
+1450815796 c:\users\carlos\desktop\personal repositories\project-magic\textureholder.hpp
+	<vector>
+	<SFML/Graphics/Texture.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\characters.cpp
+	"Characters.hpp"
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\characters.hpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	"Chronometer.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\utf.inl
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\string.inl
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\thread.inl
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\system\vector3.inl
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1417738159 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1417738160 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1417738158 c:\users\carlos\desktop\personal repositories\libraries\sfml 2.2\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\chronometer.hpp
+	<SFML/System/Clock.hpp>
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\polarvector.hpp
+	"MathConstants.hpp"
+	<cmath>
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\chronometer.cpp
+	"Chronometer.hpp"
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\emitter.cpp
+	"Emitter.hpp"
+	"MathConstants.hpp"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\emitter.hpp
+	<utility>
+	<functional>
+	<SFML/System/Time.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	"Bullet.hpp"
+	"Distribution.hpp"
+
+1452282179 source:c:\users\carlos\desktop\personal repositories\project-magic\emitterdefinitions.cpp
+	"EmitterDefinitions.hpp"
+	"PolarVector.hpp"
+	"MathConstants.hpp"
+	<iostream>
+
+1452282179 c:\users\carlos\desktop\personal repositories\project-magic\emitterdefinitions.hpp
+	"EmitterTypes.hpp"
+	"LuaTools.hpp"
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\emittertypes.hpp
+	"Emitter.hpp"
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\emittertypes.cpp
+	"EmitterTypes.hpp"
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\enemybase.cpp
+	"EnemyBase.hpp"
+
+1450815793 c:\users\carlos\desktop\personal repositories\project-magic\enemybase.hpp
+	"Player.hpp"
+	<string>
+	<vector>
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\player.hpp
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Characters.hpp"
+	"Item.hpp"
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\item.hpp
+	<SFML/Graphics/Drawable.hpp>
+
+1450815793 source:c:\users\carlos\desktop\personal repositories\project-magic\fps.cpp
+	"FPS.hpp"
+	<sstream>
+	<string>
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\fps.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	"Chronometer.hpp"
+
+1450820002 source:c:\users\carlos\desktop\personal repositories\project-magic\generator.cpp
+	"Generator.hpp"
+	"PolarVector.hpp"
+	<iostream>
+	<algorithm>
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\generator.hpp
+	<vector>
+	<array>
+	<map>
+	<memory>
+	<utility>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	"Emitter.hpp"
+	"AffectorDefinitions.hpp"
+	"MathConstants.hpp"
+	"Bullet.hpp"
+	"TextureHolder.hpp"
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\hsl.cpp
+	"HSL.hpp"
+	"MathConstants.hpp"
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\hsl.hpp
+	<SFML/Graphics/Color.hpp>
+	<algorithm>
+	<cmath>
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\indexmanager.cpp
+	"IndexManager.hpp"
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\indexmanager.hpp
+	"PolarVector.hpp"
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\item.cpp
+	"Item.hpp"
+
+1452289987 source:c:\users\carlos\desktop\personal repositories\project-magic\main.cpp
+	"Generator.hpp"
+	"FPS.hpp"
+	"PolarVector.hpp"
+	"EmitterDefinitions.hpp"
+	"AffectorDefinitions.hpp"
+	"LuaTools.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<random>
+	"LuaTools.hpp"
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\mana.cpp
+	"Mana.hpp"
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\mana.hpp
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\playershot.cpp
+	"PlayerShot.hpp"
+	<iostream>
+
+1450815794 c:\users\carlos\desktop\personal repositories\project-magic\playershot.hpp
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	"PolarVector.hpp"
+	"Chronometer.hpp"
+	"MathConstants.hpp"
+
+1450815794 source:c:\users\carlos\desktop\personal repositories\project-magic\polarvector.cpp
+	"PolarVector.hpp"
+
+1450815796 source:c:\users\carlos\desktop\personal repositories\project-magic\textureholder.cpp
+	"TextureHolder.hpp"
+	<iostream>
+
+1451433954 source:c:\users\carlos\desktop\personal programing projects\project magic\luascriptrunner.cpp
+	"LuaScriptRunner.hpp"
+
+1451434002 c:\users\carlos\desktop\personal programing projects\project magic\luascriptrunner.hpp
+	<lua.hpp>
+
+1103781184 c:\program files (x86)\lua\5.1\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1218040212 c:\program files (x86)\lua\5.1\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1219948776 c:\program files (x86)\lua\5.1\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198778544 c:\program files (x86)\lua\5.1\include\lualib.h
+	"lua.h"
+
+1198778544 c:\program files (x86)\lua\5.1\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1451691560 source:c:\users\carlos\desktop\personal programing projects\project magic\luatools.cpp
+	"LuaTools.hpp"
+	<stdexcept>
+
+1451695102 c:\users\carlos\desktop\personal programing projects\project magic\luatools.hpp
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<string>
+
+1452282179 c:\users\carlos\desktop\personal repositories\project-magic\luatools.hpp
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<string>
+
+1431657000 c:\users\carlos\desktop\personal repositories\project-magic\resources\luajit\lua\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1431657000 c:\users\carlos\desktop\personal repositories\project-magic\resources\luajit\lua\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<assert.h>
+
+1431657000 c:\users\carlos\desktop\personal repositories\project-magic\resources\luajit\lua\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1431657000 c:\users\carlos\desktop\personal repositories\project-magic\resources\luajit\lua\include\lualib.h
+	"lua.h"
+
+1452282179 source:c:\users\carlos\desktop\personal repositories\project-magic\luatools.cpp
+	"LuaTools.hpp"
+	<stdexcept>
+

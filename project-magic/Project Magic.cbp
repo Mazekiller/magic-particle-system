@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project Magic" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Project Magic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-d" />
+					<Add library="sfml-window-d" />
+					<Add library="sfml-system-d" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Project Magic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O2" />
+			<Add option="-Wfloat-equal" />
+			<Add option="-Winline" />
+			<Add option="-Wmissing-include-dirs" />
+			<Add option="-Weffc++" />
+			<Add option="-std=c++0x" />
+			<Add directory="../Libraries/SFML 2.2/SFML-2.2/include" />
+			<Add directory="C:/Program Files (x86)/Lua/5.1/include" />
+		</Compiler>
+		<Linker>
+			<Add library="C:\Program Files (x86)\Lua\5.1\lib\lua51.lib" />
+			<Add directory="../Libraries/SFML 2.2/SFML-2.2/lib" />
+			<Add directory="C:/Program Files (x86)/Lua/5.1/lib" />
+		</Linker>
+		<Unit filename="AffectorDefinitions.cpp" />
+		<Unit filename="AffectorDefinitions.hpp" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.hpp" />
+		<Unit filename="Characters.cpp" />
+		<Unit filename="Characters.hpp" />
+		<Unit filename="Chronometer.cpp" />
+		<Unit filename="Chronometer.hpp" />
+		<Unit filename="Distribution.hpp" />
+		<Unit filename="Emitter.cpp" />
+		<Unit filename="Emitter.hpp" />
+		<Unit filename="EmitterDefinitions.cpp" />
+		<Unit filename="EmitterDefinitions.hpp" />
+		<Unit filename="EmitterTypes.cpp" />
+		<Unit filename="EmitterTypes.hpp" />
+		<Unit filename="EnemyBase.cpp" />
+		<Unit filename="EnemyBase.hpp" />
+		<Unit filename="FPS.cpp" />
+		<Unit filename="FPS.hpp" />
+		<Unit filename="Generator.cpp" />
+		<Unit filename="Generator.hpp" />
+		<Unit filename="HSL.cpp" />
+		<Unit filename="HSL.hpp" />
+		<Unit filename="IndexManager.cpp" />
+		<Unit filename="IndexManager.hpp" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.hpp" />
+		<Unit filename="LuaTools.cpp" />
+		<Unit filename="LuaTools.hpp" />
+		<Unit filename="Mana.cpp" />
+		<Unit filename="Mana.hpp" />
+		<Unit filename="MathConstants.hpp" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.hpp" />
+		<Unit filename="PlayerShot.cpp" />
+		<Unit filename="PlayerShot.hpp" />
+		<Unit filename="PolarVector.cpp" />
+		<Unit filename="PolarVector.hpp" />
+		<Unit filename="TextureHolder.cpp" />
+		<Unit filename="TextureHolder.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
